@@ -1,0 +1,7 @@
+{
+  "name": "Motion Arcade AI",
+  "description": "A suite of body-motion controlled mini-games powered by MediaPipe for vision and Gemini AI for dynamic commentary.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
